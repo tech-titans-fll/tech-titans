@@ -1,9 +1,66 @@
+# Tech Titans Team Members
+# Kids can edit this file to add their photos and descriptions!
+
 members:
-  - name: "Example Student"
-    age: 12
-    role: "Team Captain"
-    photo: "/assets/images/team/example.jpg"
-    fun_fact: "I love building LEGO robots!"
-    hobbies: ["robotics", "coding", "gaming"]
+  - name: "Aarush Bhagwat"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/aarush.jpg"
+    description: "Add your description here, Aarush!"
+    fun_fact: "Tell us something cool about yourself!"
     
-  # Kids add themselves here by copying the format above!
+  - name: "Samik Kothari"
+    grade: "6th Grade" 
+    role: "Team Member"
+    photo: "/assets/images/team/samik.jpg"
+    description: "Add your description here, Samik!"
+    fun_fact: "Tell us something cool about yourself!"
+    
+  - name: "Deksh"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/deksh.jpg"
+    description: "Add your description here, Deksh!"
+    fun_fact: "Tell us something cool about yourself!"
+    
+  - name: "Manit"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/manit.jpg"
+    description: "Add your description here, Manit!"
+    fun_fact: "Tell us something cool about yourself!"
+    
+  - name: "Niketh"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/niketh.jpg"
+    description: "Add your description here, Niketh!"
+    fun_fact: "Tell us something cool about yourself!"
+    
+  - name: "Edwin"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/edwin.jpg"
+    description: "Add your description here, Edwin!"
+    fun_fact: "Tell us something cool about yourself!"
+    
+  - name: "Nikhil"
+    grade: "6th Grade"
+    role: "Team Member"
+    photo: "/assets/images/team/nikhil.jpg"
+    description: "Add your description here, Nikhil!"
+    fun_fact: "Tell us something cool about yourself!"
+
+# Mentors
+mentors:
+  - name: "Venkatesh"
+    role: "Lead Mentor"
+    organization: "Robotics for Youth Virginia"
+    photo: "/assets/images/mentors/venkatesh.jpg"
+    description: "Add your bio here, Venkatesh!"
+    link: "https://roboticsforyouth.org"
+    
+  - name: "Shyam Bhagwat"
+    role: "Co-Mentor"
+    photo: "/assets/images/mentors/shyam.jpg"
+    description: "Add your bio here, Shyam!"

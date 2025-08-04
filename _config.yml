@@ -1,6 +1,6 @@
 # Site settings
-title: "Tech Titans - FIRST LEGO League"
-description: "Official website of Tech Titans FLL Team"
+title: "Tech Titans - FLL Team"
+description: "Tech Titans FLL Team from Eagle Ridge Middle School, Ashburn, Virginia"
 url: "https://tech-titans-fll.github.io"
 baseurl: "/tech-titans"
 
@@ -11,10 +11,20 @@ minimal_mistakes_skin: "default"
 # Team Info
 team:
   name: "Tech Titans"
+  full_name: "Tech Titans First LEGO League"
   season: "2024-25"
-  mentor:
-    name: "Your Name"
-    email: "your.email@example.com"
+  school: "Eagle Ridge Middle School"
+  location: "Ashburn, Virginia"
+  meeting:
+    location: "Brambleton Library, Brambleton, Virginia"
+    time: "Friday 5:30 PM - 6:30 PM"
+  mentors:
+    - name: "Venkatesh"
+      role: "Lead Mentor"
+      organization: "Robotics for Youth Virginia"
+      link: "https://roboticsforyouth.org" # You'll need to find the actual link
+    - name: "Shyam Bhagwat"
+      role: "Co-Mentor"
 
 # Plugins
 plugins:
