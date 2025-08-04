@@ -1,0 +1,9 @@
+members:
+  - name: "Example Student"
+    age: 12
+    role: "Team Captain"
+    photo: "/assets/images/team/example.jpg"
+    fun_fact: "I love building LEGO robots!"
+    hobbies: ["robotics", "coding", "gaming"]
+    
+  # Kids add themselves here by copying the format above!
