@@ -1,170 +1,91 @@
 ---
-title: "Sponsors"
-permalink: /sponsors/
+title: "Supporters"
+permalink: /supporters/
 layout: single
 author_profile: false
 classes: wide
 ---
 
-# Sponsors & Partnerships 🤝
+# Supporters & Partnerships 🤝
 
 ---
 
-## We're Looking for Amazing Sponsors!
+## We're Looking for Amazing Supporters!
 
-<div style="background: linear-gradient(135deg, #007acc, #0066cc); color: white; padding: 40px; border-radius: 20px; margin: 30px 0; text-align: center;">
-  <h2 style="color: white; margin-bottom: 20px;">🎯 Actively Seeking Sponsors</h2>
-  <p style="font-size: 1.2rem; margin-bottom: 20px;">
-    We're actively looking for sponsors in the <strong>Broadlands and Ashburn area</strong> to support our FIRST LEGO League journey!
-  </p>
+<div style="text-align: center; background: linear-gradient(135deg, #007acc, #0066cc); color: white; padding: 30px; border-radius: 20px; margin: 30px 0;">
+  <h2 style="color: white; margin-bottom: 15px;">🎯 Actively Seeking Supporters</h2>
+  <p style="font-size: 1.1rem; margin-bottom: 20px;">We're actively looking for supporters in the Broadlands and Ashburn area to support our FIRST LEGO League journey!</p>
+  
   <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px; margin: 20px 0;">
-    <h3 style="color: #ffeb3b; margin-bottom: 15px;">🧱 Tech Titans FLL Team</h3>
+    <h3 style="color: #ffeb3b; margin-bottom: 10px;">🧱 Tech Titans FLL Team</h3>
     <p style="margin: 0;">Eagle Ridge Middle School • Ashburn, Virginia</p>
   </div>
 </div>
 
 ---
 
-## What We Offer Our Sponsors
+## What We Offer Our Supporters
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px; margin: 30px 0;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
   
-  <div style="background: #f8f9fa; border: 3px solid #28a745; border-radius: 15px; padding: 25px; text-align: center;">
-    <div style="font-size: 4rem; margin-bottom: 15px;">👕</div>
-    <h3 style="color: #28a745; margin-bottom: 15px;">T-Shirt Logo Placement</h3>
-    <p style="color: #666; line-height: 1.6;">Your logo will be prominently displayed on our team t-shirts, worn by all 7 team members throughout the season.</p>
+  <div style="background: #f8f9fa; border: 2px solid #ff6b35; border-radius: 15px; padding: 20px; text-align: center;">
+    <div style="font-size: 3rem; margin-bottom: 15px;">👕</div>
+    <h3 style="color: #ff6b35; margin-bottom: 10px;">T-Shirt Logo Placement</h3>
+    <p style="color: #666; margin: 0;">Your logo prominently displayed on team t-shirts worn by all 7 members</p>
   </div>
   
-  <div style="background: #f8f9fa; border: 3px solid #007acc; border-radius: 15px; padding: 25px; text-align: center;">
-    <div style="font-size: 4rem; margin-bottom: 15px;">📍</div>
-    <h3 style="color: #007acc; margin-bottom: 15px;">Weekly Visibility</h3>
-    <p style="color: #666; line-height: 1.6;">Your sponsorship will be visible during our weekly FLL meetings at Brambleton Library every Friday 5:30-6:30 PM.</p>
+  <div style="background: #f8f9fa; border: 2px solid #007acc; border-radius: 15px; padding: 20px; text-align: center;">
+    <div style="font-size: 3rem; margin-bottom: 15px;">📍</div>
+    <h3 style="color: #007acc; margin-bottom: 10px;">Weekly Visibility</h3>
+    <p style="color: #666; margin: 0;">Visible during weekly FLL meetings at Brambleton Library every Friday</p>
   </div>
   
-  <div style="background: #f8f9fa; border: 3px solid #ff6b35; border-radius: 15px; padding: 25px; text-align: center;">
-    <div style="font-size: 4rem; margin-bottom: 15px;">🌐</div>
-    <h3 style="color: #ff6b35; margin-bottom: 15px;">Website Recognition</h3>
-    <p style="color: #666; line-height: 1.6;">Prominent placement on our team website, viewed by families, schools, and the FLL community.</p>
+  <div style="background: #f8f9fa; border: 2px solid #28a745; border-radius: 15px; padding: 20px; text-align: center;">
+    <div style="font-size: 3rem; margin-bottom: 15px;">🌐</div>
+    <h3 style="color: #28a745; margin-bottom: 10px;">Website Recognition</h3>
+    <p style="color: #666; margin: 0;">Prominent placement on our team website viewed by families and community</p>
   </div>
   
-  <div style="background: #f8f9fa; border: 3px solid #6f42c1; border-radius: 15px; padding: 25px; text-align: center;">
-    <div style="font-size: 4rem; margin-bottom: 15px;">🏆</div>
-    <h3 style="color: #6f42c1; margin-bottom: 15px;">Competition Presence</h3>
-    <p style="color: #666; line-height: 1.6;">Your logo will accompany us to all FLL tournaments and competitions throughout the season.</p>
+  <div style="background: #f8f9fa; border: 2px solid #6f42c1; border-radius: 15px; padding: 20px; text-align: center;">
+    <div style="font-size: 3rem; margin-bottom: 15px;">🏆</div>
+    <h3 style="color: #6f42c1; margin-bottom: 10px;">Competition Presence</h3>
+    <p style="color: #666; margin: 0;">Your logo accompanies us to all FLL tournaments and competitions</p>
   </div>
   
-</div>
-
----
-
-## About Our Team
-
-<div style="background: linear-gradient(135deg, #fff5f2, #ffffff); border: 2px solid #ff6b35; border-radius: 20px; padding: 30px; margin: 30px 0;">
-  <h3 style="color: #ff6b35; margin-bottom: 20px; text-align: center;">🧱 Tech Titans FLL Team</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
-    <div>
-      <h4 style="color: #007acc; margin-bottom: 10px;">👥 Our Team</h4>
-      <ul style="color: #666; line-height: 1.6;">
-        <li>7 dedicated 6th grade students</li>
-        <li>Eagle Ridge Middle School</li>
-        <li>First-year FLL participants</li>
-        <li>Passionate about STEM learning</li>
-      </ul>
-    </div>
-    
-    <div>
-      <h4 style="color: #007acc; margin-bottom: 10px;">🎯 Our Goals</h4>
-      <ul style="color: #666; line-height: 1.6;">
-        <li>Build and program LEGO robots</li>
-        <li>Compete in regional tournaments</li>
-        <li>Develop teamwork skills</li>
-        <li>Research real-world problems</li>
-      </ul>
-    </div>
-    
-    <div>
-      <h4 style="color: #007acc; margin-bottom: 10px;">📍 Local Impact</h4>
-      <ul style="color: #666; line-height: 1.6;">
-        <li>Based in Ashburn, Virginia</li>
-        <li>Weekly meetings at Brambleton Library</li>
-        <li>Representing our local community</li>
-        <li>Inspiring other young students</li>
-      </ul>
-    </div>
-    
-    <div>
-      <h4 style="color: #007acc; margin-bottom: 10px;">🚀 Season Activities</h4>
-      <ul style="color: #666; line-height: 1.6;">
-        <li>Weekly team meetings</li>
-        <li>Regional competitions</li>
-        <li>Community presentations</li>
-        <li>STEM outreach events</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
----
-
-## Why Sponsor Us?
-
-<div style="background: #f0f8ff; border-radius: 15px; padding: 30px; margin: 30px 0;">
-  <h3 style="color: #007acc; margin-bottom: 20px; text-align: center;">💡 Investment in Our Community</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
-    <div>
-      <h4 style="color: #28a745; margin-bottom: 10px;">🌟 Support Local Students</h4>
-      <p style="color: #666; line-height: 1.6;">Help 7 local middle school students develop critical STEM skills and pursue their passion for robotics and innovation.</p>
-    </div>
-    
-    <div>
-      <h4 style="color: #28a745; margin-bottom: 10px;">🏢 Community Visibility</h4>
-      <p style="color: #666; line-height: 1.6;">Gain positive exposure in the Broadlands and Ashburn community through our regular activities and competitions.</p>
-    </div>
-    
-    <div>
-      <h4 style="color: #28a745; margin-bottom: 10px;">🤝 STEM Education</h4>
-      <p style="color: #666; line-height: 1.6;">Directly contribute to STEM education and help inspire the next generation of engineers and innovators.</p>
-    </div>
-    
-    <div>
-      <h4 style="color: #28a745; margin-bottom: 10px;">📈 Long-term Impact</h4>
-      <p style="color: #666; line-height: 1.6;">Your sponsorship helps establish a foundation for continued FLL participation and STEM learning in our school.</p>
-    </div>
-  </div>
 </div>
 
 ---
 
 ## Get In Touch
 
-<div style="background: linear-gradient(135deg, #28a745, #20c997); color: white; padding: 40px; border-radius: 20px; margin: 40px 0; text-align: center;">
-  <h2 style="color: white; margin-bottom: 20px;">📞 Ready to Partner With Us?</h2>
-  <p style="font-size: 1.2rem; margin-bottom: 25px;">
-    We'd love to discuss sponsorship opportunities and how we can showcase your support for local STEM education!
-  </p>
+<div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 30px; border-radius: 20px; margin: 30px 0; text-align: center;">
+  <h2 style="color: #007acc; margin-bottom: 20px;">📞 Ready to Partner With Us?</h2>
+  <p style="font-size: 1.1rem; color: #666; margin-bottom: 25px;">We'd love to discuss partnership opportunities and how we can showcase your support for local STEM education!</p>
   
-  <div style="background: rgba(255,255,255,0.1); padding: 25px; border-radius: 15px; margin: 20px 0;">
-    <h3 style="color: #ffeb3b; margin-bottom: 15px;">Contact Our Team</h3>
-    <p style="margin: 5px 0;">📧 Email: [Add your contact email]</p>
-    <p style="margin: 5px 0;">📍 Location: Ashburn, Virginia</p>
-    <p style="margin: 5px 0;">🏢 School: Eagle Ridge Middle School</p>
+  <div style="background: white; padding: 25px; border-radius: 15px; display: inline-block; text-align: left; margin: 20px;">
+    <h3 style="color: #ff6b35; margin-bottom: 15px;">Contact Our Team</h3>
+    <p style="margin: 5px 0;"><strong>📧 Email:</strong> <a href="mailto:shyambhagwat@gmail.com" style="color: #007acc;">shyambhagwat@gmail.com</a></p>
+    <p style="margin: 5px 0;"><strong>📍 Location:</strong> Ashburn, Virginia</p>
+    <p style="margin: 5px 0;"><strong>🏢 School:</strong> Eagle Ridge Middle School</p>
   </div>
   
-  <p style="font-size: 1rem; margin-top: 20px; opacity: 0.9;">
-    Thank you for considering supporting the Tech Titans FLL Team!
-  </p>
+  <p style="margin-top: 20px; font-style: italic;">Thank you for considering supporting the Tech Titans FLL Team!</p>
 </div>
 
 ---
 
-## Current Sponsors
+## Current Supporters
 
-<div style="text-align: center; background: #f8f9fa; padding: 40px; border-radius: 15px; margin: 30px 0;">
-  <h3 style="color: #007acc; margin-bottom: 20px;">🙏 Thank You to Our Supporters</h3>
-  <p style="color: #666; font-size: 1.1rem;">
-    We're grateful for any support we receive and will proudly display sponsor information here as we grow our partnership network.
-  </p>
-  <div style="font-size: 3rem; margin-top: 20px; opacity: 0.3;">🤝</div>
+<div style="text-align: center; background: white; border: 2px solid #007acc; border-radius: 20px; padding: 30px; margin: 30px 0;">
+  <h2 style="color: #007acc; margin-bottom: 20px;">🙏 Thank You to Our Supporters</h2>
+  
+  <div style="background: #f0f8ff; padding: 25px; border-radius: 15px; margin: 20px 0;">
+    <h3 style="color: #ff6b35; margin-bottom: 15px;">Robotics for Youth Virginia</h3>
+    <p style="margin-bottom: 15px;">Supporting STEM education and robotics programs for young learners</p>
+    <a href="https://www.roboticsforyouth.org/" target="_blank" style="background: #007acc; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; display: inline-block;">
+      🔗 Visit Website
+    </a>
+  </div>
+  
+  <p style="color: #666; margin-top: 25px;">We're grateful for any support we receive and will proudly display supporter information here as we grow our partnership network.</p>
 </div>
