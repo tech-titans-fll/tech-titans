@@ -40,7 +40,7 @@ We are 7 passionate 6th grade creators dedicated to:
   </div>
   <p style="font-style: italic; color: #666;">
     Get to know the Tech Titans team and see what we're all about! 
-    <a href="https://www.youtube.com/watch?v=zd637TJYjNA" target="_blank" style="color: #ff6b35; font-weight: bold;">
+    <a href="https://youtu.be/zUXFGyBX0O8" target="_blank" style="color: #ff6b35; font-weight: bold;">
       Watch on YouTube →
     </a>
   </p>
