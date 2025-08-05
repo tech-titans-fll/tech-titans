@@ -34,9 +34,9 @@ classes: wide
       {% if member.description %}
       <p style="color: #333; margin: 15px 0; font-size: 1rem; line-height: 1.6;">{{ member.description }}</p>
       {% else %}
-      <div style="background: #fff3cd; border: 1px solid #ffeaa7; padding: 15px; border-radius: 10px; margin: 15px 0;">
-        <p style="color: #856404; margin: 0; font-style: italic;">
-          Hey {{ member.name }}! Add your description by editing the team file on GitHub 📝
+      <div style="background: #f0f8ff; border: 1px solid #cce7ff; padding: 15px; border-radius: 10px; margin: 15px 0;">
+        <p style="color: #007acc; margin: 0; font-style: italic;">
+          {{ member.name }} will be adding their profile information soon! 🚀
         </p>
       </div>
       {% endif %}
@@ -73,41 +73,5 @@ classes: wide
       <div style="font-size: 2.5rem; color: #28a745; font-weight: bold;">1st</div>
       <div style="color: #666;">FLL Season</div>
     </div>
-  </div>
-</div>
-
----
-
-## How Team Members Can Add Their Info
-
-<div style="background: linear-gradient(135deg, #007acc, #0056b3); color: white; padding: 30px; border-radius: 20px; margin: 30px 0;">
-  <h3 style="color: white; margin-bottom: 20px; text-align: center;">📝 Easy Steps to Add Your Profile</h3>
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 20px 0;">
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px;">
-      <h4 style="color: #ffeb3b; margin-bottom: 10px;">1️⃣ Edit Team File</h4>
-      <p style="margin: 0; font-size: 0.95rem;">Go to GitHub and edit the team.yml file</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px;">
-      <h4 style="color: #ffeb3b; margin-bottom: 10px;">2️⃣ Add Your Photo</h4>
-      <p style="margin: 0; font-size: 0.95rem;">Upload your picture to the images folder</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px;">
-      <h4 style="color: #ffeb3b; margin-bottom: 10px;">3️⃣ Write About Yourself</h4>
-      <p style="margin: 0; font-size: 0.95rem;">Replace placeholder text with your info</p>
-    </div>
-    
-    <div style="background: rgba(255,255,255,0.1); padding: 20px; border-radius: 15px;">
-      <h4 style="color: #ffeb3b; margin-bottom: 10px;">4️⃣ Save Changes</h4>
-      <p style="margin: 0; font-size: 0.95rem;">Commit your changes and see them live!</p>
-    </div>
-  </div>
-  
-  <div style="text-align: center; margin-top: 25px;">
-    <a href="https://github.com/tech-titans-fll/tech-titans/edit/main/_data/team.yml" target="_blank" style="background: #28a745; color: white; padding: 15px 30px; border-radius: 50px; text-decoration: none; font-weight: bold; display: inline-block; transition: all 0.3s ease;">
-      🚀 Edit Team File on GitHub
-    </a>
   </div>
 </div>
