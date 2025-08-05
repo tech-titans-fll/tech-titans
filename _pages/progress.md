@@ -76,7 +76,7 @@ We're documenting our robot development journey! This is just the beginning of o
 <div style="text-align: center; background: #f0f8ff; padding: 20px; border-radius: 10px; margin: 30px 0;">
   <h3 style="color: #007acc;">🔔 Subscribe to Our YouTube Channel!</h3>
   <p>We'll be posting updates throughout the season showing our progress, challenges, and victories!</p>
-  <a href="https://www.youtube.com/channel/UC[YOUR_CHANNEL_ID]" target="_blank" style="background: #ff0000; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+  <a href="" target="_blank" style="background: #ff0000; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold;">
     Subscribe on YouTube
   </a>
 </div>
