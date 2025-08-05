@@ -1,5 +1,4 @@
 ---
-title: "Robot Progress"
 permalink: /progress/
 layout: single
 ---

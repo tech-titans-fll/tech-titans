@@ -1,5 +1,4 @@
 ---
-title: "Lightning Talks"
 permalink: /lightning-talks/
 layout: single
 author_profile: false

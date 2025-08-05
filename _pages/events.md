@@ -1,5 +1,4 @@
 ---
-title: "Events & Calendar"
 permalink: /events/
 layout: single
 author_profile: false
