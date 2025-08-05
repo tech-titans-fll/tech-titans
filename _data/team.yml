@@ -2,14 +2,14 @@
 # Kids can edit this file to add their photos and descriptions!
 
 members:
-  - name: "Aarush Bhagwat"
+  - name: "Aarush"
     grade: "6th Grade"
     role: "Team Member"
     photo: "/assets/images/team/aarush.jpg"
     description: "Add your description here, Aarush!"
     fun_fact: "Tell us something cool about yourself!"
     
-  - name: "Samik Kothari"
+  - name: "Samik"
     grade: "6th Grade" 
     role: "Team Member"
     photo: "/assets/images/team/samik.jpg"
