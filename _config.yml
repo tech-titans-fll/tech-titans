@@ -8,6 +8,19 @@ baseurl: "/tech-titans"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
+# Site Author
+author:
+  name: "Tech Titans FLL Team"
+  bio: "First LEGO League Team from Eagle Ridge Middle School"
+  location: "Ashburn, Virginia"
+  links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UC[YOUR_CHANNEL_ID]"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shyambhagwat@gmail.com"
+
 # Team Info
 team:
   name: "Tech Titans"
@@ -18,6 +31,21 @@ team:
   meeting:
     location: "Brambleton Library, Brambleton, Virginia"
     time: "Friday 5:30 PM - 6:30 PM"
+
+# Navigation
+main:
+  - title: "Team"
+    url: /team/
+  - title: "Progress"
+    url: /progress/
+  - title: "Events"
+    url: /events/
+  - title: "Lightning Talks"
+    url: /lightning-talks/
+  - title: "Sponsors"
+    url: /sponsors/
+  - title: "Contact"
+    url: /contact/
 
 # Plugins
 plugins:
@@ -49,6 +77,93 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
-# Navigation
+# Include pages directory
 include: ["_pages"]
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - tmp
+
+# Reading Files
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+timezone: America/New_York
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Analytics (optional - add your tracking ID if you have one)
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-XXXXXXXX-X"
+
+# SEO Related
+twitter:
+  username: # Add if you have a Twitter account
+
+# Social Sharing
+og_image: # Path to Open Graph image
+
+# For development
+livereload: true
