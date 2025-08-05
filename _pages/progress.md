@@ -18,7 +18,7 @@ layout: single
     </iframe>
   </div>
   <p style="text-align: center;">
-    <a href="https://youtu.be/zUXFGyBX0O8" target="_blank" style="background: #ff6b35; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
+    <a href="https://www.youtube.com/watch?v=zUXFGyBX0O8" target="_blank" style="background: #ff6b35; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold;">
       🎬 Watch on YouTube
     </a>
   </p>
