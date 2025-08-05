@@ -1,10 +1,3 @@
-# 🧱 Improved Team Page - Clean Design
-
-## **Updated `_pages/team.md` File**
-
-Replace your current `_pages/team.md` content with this improved version:
-
-```markdown
 ---
 title: "Meet Our Team"
 permalink: /team/
@@ -118,23 +111,3 @@ classes: wide
     </a>
   </div>
 </div>
-```
-
----
-
-## **Key Improvements Made:**
-
-### **✅ What's Fixed:**
-- **Removed mentors section** completely
-- **Removed "Permalink" text** from headings
-- **Better spacing and margins**
-- **Improved color scheme** with gradients
-- **Larger, more readable text**
-- **Better visual hierarchy**
-- **Professional card design** for each member
-- **Cleaner call-to-action** section
-
-### **✅ Design Improvements:**
-- **Gradient backgrounds** for visual appeal
-- **Better shadows and borders** for depth
-- **Larger profile placeholders** (120px instead o
