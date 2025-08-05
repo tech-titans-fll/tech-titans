@@ -51,16 +51,3 @@ members:
     description: "Add your description here, Nikhil!"
     fun_fact: "Tell us something cool about yourself!"
 
-# Mentors
-mentors:
-  - name: "Venkatesh"
-    role: "Lead Mentor"
-    organization: "Robotics for Youth Virginia"
-    photo: "/assets/images/mentors/venkatesh.jpg"
-    description: "Add your bio here, Venkatesh!"
-    link: "https://roboticsforyouth.org"
-    
-  - name: "Shyam Bhagwat"
-    role: "Co-Mentor"
-    photo: "/assets/images/mentors/shyam.jpg"
-    description: "Add your bio here, Shyam!"

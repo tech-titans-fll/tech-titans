@@ -51,10 +51,7 @@ We are 7 passionate 6th grade creators dedicated to:
 ## About Our Team
 
 The Tech Titans are a group of 7 dedicated students from Eagle Ridge Middle School in Ashburn, Virginia. We're excited to compete in the {{ site.team.season }} FIRST LEGO League season!
-
-**Our Mentors:**
-- **Venkatesh** - Lead Mentor (Robotics for Youth Virginia)
-- **Shyam Bhagwat** - Co-Mentor
+s
 
 ## Latest Updates
 

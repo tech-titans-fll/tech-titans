@@ -18,13 +18,6 @@ team:
   meeting:
     location: "Brambleton Library, Brambleton, Virginia"
     time: "Friday 5:30 PM - 6:30 PM"
-  mentors:
-    - name: "Venkatesh"
-      role: "Lead Mentor"
-      organization: "Robotics for Youth Virginia"
-      link: "https://roboticsforyouth.org" # You'll need to find the actual link
-    - name: "Shyam Bhagwat"
-      role: "Co-Mentor"
 
 # Plugins
 plugins:
