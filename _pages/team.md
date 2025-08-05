@@ -5,7 +5,6 @@ author_profile: false
 classes: wide
 ---
 
-# Meet the Tech Titans! 🧱
 
 **Tech Titans First LEGO League Team**  
 *Eagle Ridge Middle School • Ashburn, Virginia*

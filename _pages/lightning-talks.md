@@ -5,8 +5,6 @@ author_profile: false
 classes: wide
 ---
 
-# Lightning Talks ⚡
-
 Simple gallery of quick presentations and learning materials created by our team members.
 
 ---

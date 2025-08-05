@@ -5,7 +5,6 @@ author_profile: false
 classes: wide
 ---
 
-# Events & Calendar 📅
 
 ---
 

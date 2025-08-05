@@ -3,7 +3,6 @@ permalink: /progress/
 layout: single
 ---
 
-# Robot Progress 🤖
 
 ## Team Introduction Video
 
