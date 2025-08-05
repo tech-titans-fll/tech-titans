@@ -1,10 +1,3 @@
-# 🎬 Tech Titans YouTube Integration + iMovie Guide
-
-## **1. Updated Homepage with YouTube Section**
-
-Update your `index.md` with this version that includes a YouTube video section:
-
-```markdown
 ---
 layout: home
 author_profile: true
@@ -36,17 +29,21 @@ We are 7 passionate 6th grade creators dedicated to:
 
 <div style="text-align: center; margin: 40px 0;">
   <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%; margin: 20px 0;">
-    <!-- Replace VIDEO_ID with your actual YouTube video ID -->
     <iframe 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 10px;" 
-      src="https://www.youtube.com/embed/YOUR_VIDEO_ID_HERE" 
-      title="Tech Titans Team Introduction" 
+      src="https://www.youtube.com/embed/zd637TJYjNA" 
+      title="Tech Titans FLL Team - Season 2024-25 Introduction" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
       allowfullscreen>
     </iframe>
   </div>
-  <p style="font-style: italic; color: #666;">Get to know the Tech Titans team and see what we're all about!</p>
+  <p style="font-style: italic; color: #666;">
+    Get to know the Tech Titans team and see what we're all about! 
+    <a href="https://www.youtube.com/watch?v=zd637TJYjNA" target="_blank" style="color: #ff6b35; font-weight: bold;">
+      Watch on YouTube →
+    </a>
+  </p>
 </div>
 
 ---
@@ -89,33 +86,3 @@ The Tech Titans are a group of 7 dedicated students from Eagle Ridge Middle Scho
 ---
 
 *Check back regularly for updates on our robot progress and competition results!*
-```
-
----
-
-## **2. iMovie Slideshow Structure for Tech Titans**
-
-Here's a complete slideshow structure you can create in iMovie:
-
-### **🎬 Video Structure (2-3 minutes total)**
-
-#### **Slide 1: Title Card (5 seconds)**
-```
-Background: LEGO-themed or school colors
-Text: "TECH TITANS"
-Subtitle: "First LEGO League Team 2024-25"
-Music: Upbeat, inspiring
-```
-
-#### **Slide 2: School & Location (4 seconds)**
-```
-Background: Eagle Ridge Middle School photo or Ashburn, VA
-Text: "Eagle Ridge Middle School"
-Subtitle: "Ashburn, Virginia"
-```
-
-#### **Slide 3: Team Introduction (6 seconds)**
-```
-Background: Group photo of all 7 kids (when available)
-Text: "Meet Our 7 Amazing Team Members"
-Subtitle: "6th Grade Innov
