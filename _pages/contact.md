@@ -48,13 +48,6 @@ Eagle Ridge Middle School • Ashburn, Virginia
 
 ---
 
-## Questions?
-
-Have questions about our team or want to learn more about FIRST LEGO League? 
-
-**📧 Email us:** [shyambhagwat@gmail.com](mailto:shyambhagwat@gmail.com)
-
-We'd be happy to share more about our program!
 
 ---
 
