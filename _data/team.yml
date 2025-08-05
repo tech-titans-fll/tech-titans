@@ -16,7 +16,7 @@ members:
     description: "Add your description here, Samik!"
     fun_fact: "Tell us something cool about yourself!"
     
-  - name: "Deksh"
+  - name: "Nikhil"
     grade: "6th Grade"
     role: "Team Member"
     photo: "/assets/images/team/deksh.jpg"
@@ -44,7 +44,7 @@ members:
     description: "Add your description here, Edwin!"
     fun_fact: "Tell us something cool about yourself!"
     
-  - name: "Nikhil"
+  - name: "Daksh"
     grade: "6th Grade"
     role: "Team Member"
     photo: "/assets/images/team/nikhil.jpg"
