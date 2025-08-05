@@ -61,7 +61,7 @@ classes: wide
   <p style="font-size: 1.1rem; color: #666; margin-bottom: 25px;">We'd love to discuss partnership opportunities and how we can showcase your support for local STEM education!</p>
   
   <div style="background: white; padding: 25px; border-radius: 15px; display: inline-block; text-align: left; margin: 20px;">
-    <h3 style="color: #ff6b35; margin-bottom: 15px;">Contact Our Team</h3>
+    <h3 style="color: #ff6b35; margin-bottom: 15px;">Contact Parent Volunteer</h3>
     <p style="margin: 5px 0;"><strong>📧 Email:</strong> <a href="mailto:shyambhagwat@gmail.com" style="color: #007acc;">shyambhagwat@gmail.com</a></p>
     <p style="margin: 5px 0;"><strong>📍 Location:</strong> Ashburn, Virginia</p>
     <p style="margin: 5px 0;"><strong>🏢 School:</strong> Eagle Ridge Middle School</p>
