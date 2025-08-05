@@ -1,16 +1,16 @@
 ---
-title: "Supporters"
-permalink: /supporters/
+title: "Sponsors"
+permalink: /sponsors/
 layout: single
 author_profile: false
 classes: wide
 ---
 
-# Supporters & Partnerships 🤝
+# Sponsors & Partnerships 🤝
 
 ---
 
-## We're Looking for Amazing Supporters!
+## We're Looking for Amazing Sponsors!
 
 <div style="text-align: center; background: linear-gradient(135deg, #007acc, #0066cc); color: white; padding: 30px; border-radius: 20px; margin: 30px 0;">
   <h2 style="color: white; margin-bottom: 15px;">🎯 Actively Seeking Supporters</h2>
@@ -24,7 +24,7 @@ classes: wide
 
 ---
 
-## What We Offer Our Supporters
+## What We Offer Our Sponsors
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin: 30px 0;">
   
