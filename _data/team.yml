@@ -6,13 +6,12 @@ members:
     grade: "6th Grade"
     role: "Team Member"
     photo: "/assets/images/team/aarush.jpg"
-    description: "Im a Sixth grader who goes to Eagle Ridge Middle School. I love playing sports, and doing math. I love talking to my friends, and for me Fun, and Teamwork are the most important core values. I believe they have a role in robotics, and also evreyday life."
+    description: "Im a Sixth grader who goes to Eagle Ridge Middle School. I love playing sports, and doing math. I love talking to my friends, and for me Fun, and Teamwork are the most important core values. I believe they have a role in robotics, and also everyday life."
     fun_fact: "I play a lot of sports, and video games. My favorite sport is basketball, and my favorite game is Roblox"
     
   - name: "Samik"
     grade: "6th Grade" 
     role: "Team Member"
-    photo: "/assets/images/team/samik.jpg"
     description: ""
     fun_fact: ""
     
