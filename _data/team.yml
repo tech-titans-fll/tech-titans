@@ -41,7 +41,7 @@ members:
     grade: "6th Grade"
     role: "Team Member"
     photo: "/assets/images/team/edwin.jpg"
-    description: ""
+    description: " "
     fun_fact: ""
     
   - name: "Daksh"
