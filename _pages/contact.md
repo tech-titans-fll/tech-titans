@@ -46,9 +46,12 @@ Eagle Ridge Middle School • Ashburn, Virginia
 - **Teamwork** - Practicing FIRST Core Values
 - **Competition Prep** - Getting ready for tournaments
 - **Fun-Fact (Manit):** -  I do coding on Roblox Studio and I started coding when I was 7
+- **Fun-Fact (Daksh):** I coded a game in 3rd grade with friends.
 ---
 
 Add Fun Fact Manit
+Add Daksh fun-fact
+
 
 ---
 *Follow our journey as we learn, build, and compete in our first FLL season! 🤖*
